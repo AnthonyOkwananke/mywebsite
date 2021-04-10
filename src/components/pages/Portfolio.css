@@ -1,0 +1,13 @@
+.portfolio-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: center;
+    background-color:#DCDCDC;
+}
+
+.port-btn-container {
+    background-color:#DCDCDC; 
+}
+
