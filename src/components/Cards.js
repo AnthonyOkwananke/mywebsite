@@ -12,7 +12,7 @@ function Cards() {
               src='images/mywebsite.png'
               text='A fully responsive personal website built with React.js, React Router, React Hook, HTML, and CSS.'
               label='Website'
-              pathname='https://tony-softworks.netlify.app'
+              pathname='https://github.com/AnthonyOkwananke/mywebsite'
             />
             <CardItem
               src='images/rvshop.png'
