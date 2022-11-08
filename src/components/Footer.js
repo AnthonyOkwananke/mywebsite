@@ -16,11 +16,11 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>Social Media</h2>
-            <a href="https://www.linkedin.com/in/anthony-okwananke"
+            {/* <a href="https://www.linkedin.com/in/anthony-okwananke"
               rel="noopener noreferrer"
               target="_blank">
               LinkedIn
-            </a>
+            </a> */}
             <a href="https://github.com/AnthonyOkwananke"
               rel="no opener noreferrer"
               target="_blank">
@@ -32,7 +32,7 @@ function Footer() {
             <Link to='./'>Home</Link>
             <Link to='./About'>About</Link>
             <Link to='./Portfolio'>Portfolio</Link>
-            <Link to='./Resume'>Resume</Link>
+            {/* <Link to='./Resume'>Resume</Link> */}
           </div>
         </div>
       </div>
