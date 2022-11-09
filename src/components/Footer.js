@@ -38,7 +38,7 @@ function Footer() {
       </div>
       <section className='copyright'>
         <div className='cpoyright-wrap'>
-          <small className='website-rights'>Copyright © Anthony Okwananke. All rights reserved.</small>
+          <small className='website-rights'>© 2022, Anthony Okwananke. All rights reserved.</small>
         </div>
       </section>
     </div>
