@@ -22,13 +22,13 @@ export default function Portfolio() {
               >
                 Back
               </PortBackButton>
-              <PortButton
+              {/* <PortButton
                 className='btns'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
               >
                 Learn More
-              </PortButton>
+              </PortButton> */}
             </div>
         </div>
       <Footer/>

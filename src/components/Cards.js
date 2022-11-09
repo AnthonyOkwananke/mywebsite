@@ -35,12 +35,12 @@ function Cards() {
               pathname='https://github.com/AnthonyOkwananke/City-Power-Company-V3---Lab_2'
             />
             <CardItem
-              src='images/season-display-app.png'
+              src='images/winterdisplay.png'
               text='An app that displays a UI corresponding to the
               current weather season given the geolocation of a place
               and time of the year.'
               label='Season'
-              pathname='https://github.com/AnthonyOkwananke/CurrentSeasonDisplay'
+              pathname='https://currentweatherdisplay.netlify.app'
             />
             <CardItem
               src='images/step_wizard.png'
